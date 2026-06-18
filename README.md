@@ -11,9 +11,6 @@ This algorithm integrates the contextual guidance capability into the native YOL
 - **轻量化设计**：在保持高精度的同时，通过深度可分离卷积降低计算复杂度，单张发票处理仅需 **0.8秒**。
 
 # 🧾 Con-YOLO: 基于注意力机制的发票信息提取算法
-
-> 本项目是沈阳城市学院毕业论文《基于Con-YOLO发票信息提取算法设计与实现》的官方代码实现。
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
