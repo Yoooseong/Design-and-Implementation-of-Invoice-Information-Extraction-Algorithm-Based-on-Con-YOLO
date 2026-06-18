@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Design-and-Implementation-of-Invoice-Information-Extraction-Algorithm-Based-on-Con-YOLO
 This algorithm integrates the contextual guidance capability into the native YOLOv11 framework through an attention mechanism. It utilizes the attention mechanism to explore the correlations between features of different scales, enhances the feature representation of small targets and complex scenes
 
@@ -127,6 +126,3 @@ pip install -r requirements.txt
 
 如果本项目对您的研究有所帮助，请引用原论文：
 叶曜诚. 基于Con-YOLO发票信息提取算法设计与实现[D]. 沈阳城市学院, 2025.
-=======
-To enhance the efficiency of invoice information extraction, this paper designs an improved YOLO algorithm, Con-YOLO. Con-YOLO addresses the issues of low accuracy and slow speed encountered by traditional methods when dealing with complex invoice formats. This algorithm integrates contextual guidance capabilities into the native YOLOv11 framework through an attention mechanism. It utilizes the attention mechanism to explore the correlations between features at different scales, enhances feature representation for small targets and complex scenes, and improves the robustness of recognition for invoice data that is stained, blurred, occluded, or has undergone morphological transformations.
->>>>>>> 0bab358e2affba1f42b8263ebc826980dbc1e539
