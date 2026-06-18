@@ -122,4 +122,4 @@ pip install -r requirements.txt
         python ui.py
 
 如果本项目对您的研究有所帮助，请引用原论文：
-叶曜诚. 基于Con-YOLO发票信息提取算法设计与实现[D]. 沈阳城市学院, 2025.
+叶曜诚. 基于Con-YOLO发票信息提取算法设计与实现[D]. 2025.
